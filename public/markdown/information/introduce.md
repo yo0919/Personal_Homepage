@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- Hello, I'm Yongho Jeon, currently pursuing a dual major in Advanced Materials and Software at SungKyunKwan University. My academic journey reflects my deep interest in both material science and the ever-evolving world of technology.
+- I have a strong passion for both front-end and back-end development, with a particular inclination towards back-end technologies. My curiosity and enthusiasm extend to embedded software development, especially in the realm of future mobility software. I aspire to combine my diverse academic background and technical skills to forge a career as a software engineer in the automotive industry.
+- My experience is rooted in hands-on learning and practical application. I have gained valuable insights into front-end and back-end development through coursework in Web Programming Lab and System Programming Lab. Currently, I'm involved in an 'Introduction to Software Engineering' course, where I'm part of an app development project. Within this project, I am a member of the back-end development team, focusing on API management and database handling. This experience is solidifying my technical foundation and preparing me for the challenges and innovations in the software engineering field.
